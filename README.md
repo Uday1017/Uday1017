@@ -1,16 +1,15 @@
 ### Hi there 👋
+Welcome to my GitHub profile 😀!
 
-<!--
-**Uday1017/Uday1017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate student exploring into the vast world of technology, eagerly learning about development and data structures & algorithms (DSA). I explore new tech stacks and improve my skills to become a proficient developer.
 
-Here are some ideas to get you started:
+🌱 Currently, I'm focused on mastering Java and backend development, while also  doing DSA concepts to improve problem-solving abilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Feel free to reach out to me on my LinkedIn : https://www.linkedin.com/in/uday-gundu-4b8658268/
+
+Let's code, learn, and grow together in this journey through the tech world! 💻✨
+
+
+
+
+
